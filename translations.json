@@ -1,0 +1,95 @@
+{
+    "orderEventsStatus": {
+        "pendingPayment": {
+            "name": "Pendente de pagamento",
+            "externalName": "Processando pagamento",
+            "description": "Estamos processando seu pagamento"
+        },
+        "received": {
+            "name": "Recebido",
+            "externalName": "Pedido recibido",
+            "subtitle": "Te confirmaremos la hora de entrega antes de las 20:00",
+            "description": "Hemos recibido tu pedido"
+        },
+        "canceledForDeclinedPayment": {
+            "name": "Cancelado por pagamento recusado",
+            "externalName": "Pagamento recusado",
+            "subtitle": "Cancelado {{cancelledAt}}",
+            "description": "Se ha rechazado tu pedido"
+        },
+        "inSeparation": {
+            "name": "Em separação",
+            "externalName": "Produtos em separação",
+            "subtitle": "Entrega entre {{deliveryTime}} {{deliveryDate}}",
+            "description": "Estamos separando seus produtos"
+        },
+        "checkingOrder": {
+            "name": "Conferindo pedido",
+            "externalName": "Conferindo produtos",
+            "subtitle": "Entregaremos hoje entre {{deliveryTime}}",
+            "description": "Estamos conferindo seu pedido"
+        },
+        "cancelled": {
+            "name": "Cancelado",
+            "externalName": "Pedido cancelado",
+            "subtitle": "Cancelado {{cancelledAt}}",
+            "description": "Seu pedido foi cancelado"
+        },
+        "delivering": {
+            "name": "À caminho",
+            "externalName": "À caminho",
+            "subtitle": "Entregaremos hoje entre {{deliveryTime}}",
+            "description": "Estamos correndo até você"
+        },
+        "weArrived": {
+            "name": "Chegamos",
+            "externalName": "Chegamos",
+            "subtitle": "Já pode sair para recebê-lo",
+            "description": "Chegamos com seu pedido"
+        },
+        "delivered": {
+            "name": "Entregue",
+            "externalName": "Entregue",
+            "subtitle": "Entregue às {{deliveredAt}}",
+            "description": "Entregamos seu pedido"
+        },
+        "rejectedInCellar": {
+            "name": "Rejeitado na adega",
+            "externalName": "Pedido cancelado",
+            "subtitle": "Cancelado {{cancelledAt}}",
+            "description": "Seu pedido foi cancelado"
+        },
+        "dispatching": {
+            "name": "Despachando",
+            "externalName": "Despacho",
+            "subtitle": "Entregaremos hoje entre {{deliveryTime}}",
+            "description": "Estamos carregando teu pedido"
+        },
+        "near": {
+            "name": "Está próximo",
+            "externalName": "Última parada",
+            "subtitle": "Seu pedido está na última etapa da entrega",
+            "description": "Você é o próximo da lista"
+        },
+        "receivedMarketPlace": {
+            "name": "Recibido Market Place",
+            "externalName": "Recibido",
+            "description": "Recebemos seu pedido"
+        },
+        "cancelledMarketPlace": {
+            "name": "Cancelado Market Place",
+            "externalName": "Pedido cancelado",
+            "subtitle": "Cancelado {{cancelledAt}}",
+            "description": "Seu pedido foi cancelado"
+        },
+        "orderLate": {
+            "name": "Pedido atrasado",
+            "externalName": "Pedido atrasado"
+        },
+        "remarkedOrder": {
+            "name": "Entrega Reprogramada",
+            "externalName": "Entrega Reprogramada",
+            "subtitle": "Entrega Reprogramada"
+        }
+    }
+}
